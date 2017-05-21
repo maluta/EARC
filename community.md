@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Projects
+title: Community
 subtitle: Edtech Advancement Research Community
 ---
