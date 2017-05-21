@@ -14,7 +14,7 @@ navbar-links:
   Mission: "#"
   Community: "#"
   Projects: "#"
-    - p1: "/projects/login"
+    - p1: "http://earc.xyz/projects/p1"
 #    - p2: "#"
 #    - p3: "#"
 
