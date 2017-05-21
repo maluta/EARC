@@ -13,8 +13,7 @@ description: Edtech Advancement Research Community
 navbar-links:
   Mission: "#"
   Community: "#"
-  Projects: "#"
-    - p1: "http://earc.xyz/projects/p1"
+  Projects: "http://earc.xyz/projects"
 #    - p2: "#"
 #    - p3: "#"
 
