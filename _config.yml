@@ -1,7 +1,7 @@
 # --- General options --- #
 
-url: "http://maluta.github.io/EARC"
-baseurl: "/EARC"
+url: "http://earc.xyz"
+baseurl: ""
 title: EARC
 
 # Short description of your site
