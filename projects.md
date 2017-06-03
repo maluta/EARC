@@ -13,7 +13,7 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
               <a href="../project/apparatus/">
-                <div class="project-thumb" style="background-image: url('../images/apparatus.png')">
+                <div class="project-thumb" style="background-image: url('img/browser.png')">
                   <h3 class="project-tag">Apparatus</h3>
                 </div>
               </a>
@@ -24,7 +24,7 @@ subtitle: Edtech Advancement Research Community
             </div>  
 
 
-
+<!--
             <div class="col-lg-5 col-md-5">
               <a href="../project/gp/">
                 <div class="project-thumb" style="background-image: url('../images/gp.png')">
@@ -35,7 +35,7 @@ subtitle: Edtech Advancement Research Community
                 GP is an extensible, general-purpose blocks language that is powerful yet easy to learn. As GP learners (ages 12 to adult) gain experience, they can add new commands and features to GP — simultaneously learning concepts like object-oriented programming — all while continuing to use the same blocks-based programming system that they started with.
                 <a href="../project/gp/">[read&nbsp;more]</a>
               </p>
-            </div>  
+            </div> -->  
 
             </div>
         </div>
