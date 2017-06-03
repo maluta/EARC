@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bedu
-subtitle: Broser for Education
+subtitle: Browser for Education
 ---
 
-asdf asdf asdf
+Comming Soon
