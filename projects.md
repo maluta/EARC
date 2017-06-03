@@ -6,7 +6,8 @@ subtitle: Edtech Advancement Research Community
 
 
 
-      <center hidden><i>(projects in random order)</i></center>
+
+      <center><i>(projects in random order)</i></center>
       <div role="main" class="container main-content">
 
 
