@@ -13,29 +13,28 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
               <a href="../project/apparatus/">
-                <div class="project-thumb" style="background-image: url('../img/browser.png')">
-                  <h3 class="project-tag">Apparatus</h3>
+                <div class="project-thumb" style="background-image: url('../img/book.png')">
+                  <h3 class="project-tag">Bedu</h3>
                 </div>
               </a>
               <p>
-                Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams. The Apparatus Editor runs in the browser and interactive diagrams created with Apparatus can be shared and embedded on the web.
-                <a href="../project/apparatus/">[read&nbsp;more]</a>
+                Bedu is a web browser to leverage educational experiences. It includes all browser features plus a safe environment for schools and students access pedagogical content. Also, adds modules for researchers assess the impact of educational technology respecting the privacy of the students.  
+                <!--<a href="../project/apparatus/">[read&nbsp;more]</a> -->
               </p>
             </div>  
 
 
-<!--
             <div class="col-lg-5 col-md-5">
               <a href="../project/gp/">
                 <div class="project-thumb" style="background-image: url('../images/gp.png')">
-                  <h3 class="project-tag">GP</h3>
+                  <h3 class="project-tag">LAT</h3>
                 </div>
               </a>
               <p>
-                GP is an extensible, general-purpose blocks language that is powerful yet easy to learn. As GP learners (ages 12 to adult) gain experience, they can add new commands and features to GP — simultaneously learning concepts like object-oriented programming — all while continuing to use the same blocks-based programming system that they started with.
-                <a href="../project/gp/">[read&nbsp;more]</a>
+                Learning Attention Token is an algorithm built on top of Bedu browser to infer students attention when studying.
+                <!-- <a href="../project/gp/">[read&nbsp;more]</a> -->
               </p>
-            </div> -->  
+            </div>
 
             </div>
         </div>

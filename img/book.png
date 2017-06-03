@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+ <path transform="matrix(1.0126 -.47503 0 1.1203 -11.18 21.059)" d="m42.523 12.412h18.649a2 2 0 0 1 2 2v32.645a2 2 0 0 1 -2 2h-18.649a2 2 0 0 1 -2 -2v-32.645a2 2 0 0 1 2 -2" fill="#999" fill-rule="evenodd" stroke="#333" stroke-linejoin="round" stroke-width="2.9341"/>
+ <path transform="matrix(-1.0072 -.47253 0 1.1126 -5.6065 -3.191)" d="m-33.321 1.9864h18.748a2.0106 2.0106 0 0 1 2.0106 2.0106v32.879a2.0106 2.0106 0 0 1 -2.0106 2.0106h-18.748a2.0106 2.0106 0 0 1 -2.0106 -2.0106v-32.879a2.0106 2.0106 0 0 1 2.0106 -2.0106" fill="#b3b3b3" fill-rule="evenodd" stroke="#333" stroke-linejoin="round" stroke-width="2.952"/>
+</svg>
