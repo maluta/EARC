@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: project
 title: Projects
 subtitle: Edtech Advancement Research Community
 ---
-
-
-</div>
 <center>
  <div class="project-list">
 
