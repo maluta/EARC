@@ -4,16 +4,6 @@ title: Projects
 subtitle: Edtech Advancement Research Community
 ---
 
-<br>
-<br>
-
-
-| project #1  | project #2  |
-|---|---|
-| description xxxx  | description xxxx  |
-
-<br>
-
 
  <div class="project-list">
       <center hidden><i>(projects in random order)</i></center>
@@ -49,3 +39,5 @@ subtitle: Edtech Advancement Research Community
             </div>  
 
             </div>
+        </div>
+</div>
