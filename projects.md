@@ -5,6 +5,7 @@ subtitle: Edtech Advancement Research Community
 ---
 
 
+</div>
 <center>
  <div class="project-list">
 
