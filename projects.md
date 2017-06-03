@@ -12,7 +12,7 @@ subtitle: Edtech Advancement Research Community
               </a>
               <p>
                 xxxxxxxxxxxxxxxxxxxxx
-                <a href="../project/a/">[read&nbsp;more]</a>
+                <a href="../project/a/">zz</a>
               </p>
             </div>
 
@@ -30,6 +30,6 @@ subtitle: Edtech Advancement Research Community
               </a>
               <p>
                 xxxxxxxxxxxxxxxxxxxxxxx
-                <a href="../project/a/">[read&nbsp;more]</a>
+                <a href="../project/a/">xx</a>
               </p>
             </div>
