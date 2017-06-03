@@ -5,10 +5,11 @@ subtitle: Edtech Advancement Research Community
 ---
 
 
+<center>
  <div class="project-list">
+
       <center hidden><i>(projects in random order)</i></center>
       <div role="main" class="container main-content">
-
 
             <div class="row">
 
@@ -41,3 +42,4 @@ subtitle: Edtech Advancement Research Community
             </div>
         </div>
 </div>
+</center>
