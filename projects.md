@@ -13,7 +13,7 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
               <a href="../project/apparatus/">
-                <div class="project-thumb" style="background-image: url('../img/book.png')">
+                <div class="project-thumb" style="background-image: url('../img/book.svg')">
                   <h3 class="project-tag">Bedu</h3>
                 </div>
               </a>
