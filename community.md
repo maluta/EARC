@@ -4,7 +4,7 @@ title: Community
 subtitle: Edtech Advancement Research Community
 ---
 
-<center><i>Do you want to contribute? Feel free to add ideas, to discuss and share code for a better education! Drop a line below</i></center>
+<center><i>do you want to contribute? if you want to add ideas, discuss and code for a better education drop a line here. you are welcome!</i></center>
 
 <div class="disqus-comments">
 <div class="comments">
