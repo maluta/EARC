@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Bedu
-subtitle: Edtech Advancement Research Community
+subtitle: Broser for Education
 ---
 
 asdf asdf asdf
