@@ -13,7 +13,7 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
               <a href="../bedu">
-                <div class="project-thumb" style="background-image: url('../img/book.svg')">
+              <!-- <div class="project-thumb" style="background-image: url('../img/book.svg')"> -->
                   <h3 class="project-tag">Bedu</h3>
                 </div>
               </a>
@@ -26,7 +26,7 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5">
               <a href="../lat">
-                <div class="project-thumb" style="background-image: url('../images/gp.png')">
+                <!-- <div class="project-thumb" style="background-image: url('../images/gp.png')"> -->
                   <h3 class="project-tag">LAT</h3>
                 </div>
               </a>
