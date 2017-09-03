@@ -99,7 +99,7 @@ div[role=main] a:hover, div[role=main] a:focus,
   bottom: 0px;
   left: 50%;
   transform: translate(-50%,0);
-  background: #FFFFFF;
+  /*background: #FFFFFF;*/
   padding: 8px 10px;
   white-space: nowrap;
   text-transform: uppercase;
