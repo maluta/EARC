@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Projects
+title: Ideas
 subtitle: Edtech Advancement Research Community
 ---
 <center>
  <div class="project-list">
 
-      <center><i>(projects in random order)</i></center>
+      <center><i>(ideas in random order)</i></center>
       <div role="main" class="container main-content">
 
             <div class="row">
