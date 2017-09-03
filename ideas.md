@@ -13,10 +13,9 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5 col-lg-offset-1 col-md-offset-1">
               <a href="../bedu">
-              <div class="project-thumb" style="background-image: url('../img/book.svg')"></div> 
-              <div>
+              <div class="project-thumb" style="background-image: url('../img/book.svg')"> 
                   <h3 class="project-tag">Bedu</h3>
-                </div>
+              </div>
               </a>
               <p>
                 Bedu is a web browser to leverage educational experiences. It includes all browser features plus a safe environment for schools and students access pedagogical content. Also, adds modules for researchers assess the impact of educational technology respecting the privacy of the students.  
@@ -27,8 +26,7 @@ subtitle: Edtech Advancement Research Community
 
             <div class="col-lg-5 col-md-5">
               <a href="../lat">
-                <div class="project-thumb" style="background-image: url('../images/gp.png')"></div> 
-                <div>
+                <div class="project-thumb" style="background-image: url('../images/gp.png')"> 
                   <h3 class="project-tag">LAT</h3>
                 </div>
               </a>
